@@ -70,5 +70,10 @@ It turned out to be the funniest day of my life!
 * Formatted Strings (`f-strings`)
 * Printing Output
 
+## 👨‍💻 About Me
+
+I enjoy creating fun Python projects that help me improve my programming skills. This Mad Libs Game is part of my learning journey and reflects my passion for coding through simple and interactive applications.
+
+Thank you for visiting my repository!
 
 
