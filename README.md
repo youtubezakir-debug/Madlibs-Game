@@ -28,7 +28,7 @@ The game asks the user to enter:
 4. Run the program:
 
 ```bash
-python main.py
+Madlibs Game.py
 ```
 
 5. Enter the requested words.
